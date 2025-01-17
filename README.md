@@ -1,4 +1,4 @@
-# Similaridade de Desempenho - Cálculo de Similaridade entre Vetores
+# Analisador de Afinidade de Desempenho
 
 Este projeto compara como três pessoas se saem em aspectos como pontualidade, qualidade de trabalho e outros critérios importantes, para revelar quais pares têm mais sintonia em termos de performance! Ideal para otimizar equipes e fortalecer colaborações.
 
