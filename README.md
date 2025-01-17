@@ -1,6 +1,6 @@
 # Analisador de Afinidade de Desempenho
 
-Este projeto compara como três pessoas se saem em aspectos como pontualidade, qualidade de trabalho e outros critérios importantes, para revelar quais pares têm mais sintonia em termos de performance! Ideal para otimizar equipes e fortalecer colaborações.
+Este projeto compara como três pessoas se saem em aspectos como pontualidade, qualidade de trabalho e outros critérios importantes, para revelar quais pares têm mais sintonia em termos de performance.
 
 Dessa forma, contém um código em Python que utiliza a biblioteca NumPy para calcular a similaridade entre vetores representando o desempenho de diferentes pessoas com base em critérios pré-definidos. O cálculo é realizado utilizando a **similaridade entre cossenos**.
 
